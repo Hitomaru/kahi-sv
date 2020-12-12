@@ -1,0 +1,24 @@
+###
+# About/contact for the site author
+#
+# name of the author of the site
+name = "壕野 一廻"
+# description to display in the sidebar
+description = "河城重工特車事業部代表"
+
+# the profile image of the author to display in the sidebar
+gravatar = "a071061ef1c6c837c3804bdfb60c6239" # md5 hash of your email address # sidebar.html
+
+# contact links to reach the author
+#  - `name` is the font-awesome char name
+#  - `path` is the link to follow 
+contact = [
+  # { name = "linkedin", path = "https://www.linkedin.com/in/svavs" },
+  { name = "github", path = "https://github.com/type10tk" },
+  # { name = "facebook", path = "https://" },
+  { name = "twitter", path = "https://twitter.com/Type10TK" },
+  # { name = "instagram", path = "https://instagram.com/svavs" },
+  # { name = "lastfm", path = "https://www.last.fm/user/svavsa" },
+  # { name = "tumblr", path = "http://svavs.tumblr.com/" },
+  { name = "email", path = "type10tk@kahi-sv.info" }
+]

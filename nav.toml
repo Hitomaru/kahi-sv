@@ -1,0 +1,39 @@
+###
+# Structure of the navigation menu in the sidebar
+#
+#  [[nav]] is required and defines the main voice menu
+#  [[nav.sub]] is optional and defines the second level voices
+#
+#  - `name` is the link's name displayed in the navigation menu
+#  - `path` is the site's relative link or the full external link associated to `name`
+#
+
+[[nav]]
+name = "Home"
+path = "/"
+
+[[nav]]
+name = "作品紹介"
+path = "/works/"
+haschild = true  # Blog is a section with submenu navigation items
+
+  # sub-items of the Blog section
+  [[nav.sub]]
+  name = "分類別一覧"
+  path = "/categories/"
+
+  [[nav.sub]]
+  name = "タグ別一覧"
+  path = "/tags/"
+
+[[nav]]
+name = "サークル紹介"
+path = "/about/"
+
+[[nav]]
+name = "メロンブックス頒布作品"
+path = "https://www.melonbooks.co.jp/circle/index.php?circle_id=17543"
+
+[[nav]]
+name = "小説家になろう 作者ページ"
+path = "https://mypage.syosetu.com/1623940/"
