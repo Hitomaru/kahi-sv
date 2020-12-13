@@ -31,6 +31,7 @@ caption = "同人サークル河城重工特車事業部 公式サイト"
 
 version = "1.0.1"
 copyrightyear = "2020"
+copyright_attribute = "KaHI-SV"
 
 # Puglins
 # mathjax = true # whether support mathjax
