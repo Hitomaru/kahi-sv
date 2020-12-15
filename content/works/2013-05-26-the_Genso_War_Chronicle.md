@@ -1,8 +1,8 @@
 +++
 title = "幻想戦記 合本"
 [taxonomies]
-tags = ["ミリタリー", "現パロ", "同人誌"]
-categories = ["東方Project", "小説"]
+tags = ["ミリタリー", "現パロ", "小説", "物理書籍"]
+categories = ["東方Project"]
 +++
 
 ## あらすじ

@@ -2,8 +2,8 @@
 title = "総力戦狂想曲"
 description = "hogehoge"
 [taxonomies]
-tags = ["国家総力戦", "ミリタリー", "同人誌"]
-categories = ["東方Project", "小説"]
+tags = ["国家総力戦", "ミリタリー", "小説", "物理書籍"]
+categories = ["東方Project"]
 +++
 
 ## あらすじ
