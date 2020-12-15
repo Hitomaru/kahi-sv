@@ -10,7 +10,7 @@
             {% endfor %}
           {% endif %}
           <article>
-            <img src="{{ resize_image(path="./assets/works/" ~ page.slug ~ "/top.png", width = 512, op = "fit_width") }}" />
+            <img src="{{ resize_image(path="./works/" ~ page.slug ~ "/top.png", width = 512, op = "fit_width") }}" />
             {{ page.content | safe }}
           </article>
         </div>
