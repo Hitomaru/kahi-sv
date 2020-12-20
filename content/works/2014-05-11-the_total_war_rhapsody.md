@@ -14,3 +14,4 @@ categories = ["東方Project"]
 
 * 頒布価格: 1500円
 * 形態: A5版
+* 委託: [メロンブックス](https://www.melonbooks.co.jp/detail/detail.php?product_id=24401)

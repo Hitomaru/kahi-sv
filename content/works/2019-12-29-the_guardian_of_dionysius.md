@@ -13,3 +13,4 @@ categories = ["明ける世界の夢見る機械"]
 
 * 頒価: 1500円
 * 形態: A5版
+* 委託: [メロンブックス](https://www.melonbooks.co.jp/detail/detail.php?product_id=607968)
