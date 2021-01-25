@@ -1,6 +1,6 @@
 # The URL the site will be built for
 base_url = "https://kahi-sv.info"
-
+default_language = "ja"
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
@@ -11,7 +11,7 @@ title = "河城重工特車事業部"
 highlight_code = true
 
 # Whether to build a search index to be used later on by a JavaScript library
-build_search_index = true
+# build_search_index = true
 
 theme = "codinfox-zola"
 
@@ -25,16 +25,17 @@ taxonomies = [
 
 logo = "/logo.png"
 
-image = "/img/wall.jpg"
+image = "/img/top.png"
 
 caption = "同人サークル河城重工特車事業部 公式サイト"
 
 version = "1.0.1"
 copyrightyear = "2020"
+copyright_attribute = "KaHI-SV"
 
 # Puglins
 # mathjax = true # whether support mathjax
-# google_analytics_token = "" # a UA-00000000-1 like code or leave blank if you don't want google analytics
+google_analytics_token = "G-KVVCN3SRWP" # a UA-00000000-1 like code or leave blank if you don't want google analytics
 # disqus_short_name = "codinfox-zola" # leave blank if you don't want disqus
 #
 # # Where are tags and categories displayed

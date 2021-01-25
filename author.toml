@@ -14,7 +14,7 @@ gravatar = "a071061ef1c6c837c3804bdfb60c6239" # md5 hash of your email address #
 #  - `path` is the link to follow 
 contact = [
   # { name = "linkedin", path = "https://www.linkedin.com/in/svavs" },
-  { name = "github", path = "https://github.com/type10tk" },
+  { name = "github", path = "https://github.com/Hitomaru" },
   # { name = "facebook", path = "https://" },
   { name = "twitter", path = "https://twitter.com/Type10TK" },
   # { name = "instagram", path = "https://instagram.com/svavs" },

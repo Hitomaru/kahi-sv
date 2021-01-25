@@ -1,8 +1,8 @@
 +++
 title = "ディオニュシオスの守護者"
 [taxonomies]
-tags = ["ポストアポカリプスSF百合ファンタジー", "同人誌"]
-categories = ["明ける世界の夢見る機械", "小説"]
+tags = ["ポストアポカリプスSF百合ファンタジー", "小説", "物理書籍"]
+categories = ["明ける世界の夢見る機械"]
 +++
 
 ## あらすじ
@@ -13,3 +13,4 @@ categories = ["明ける世界の夢見る機械", "小説"]
 
 * 頒価: 1500円
 * 形態: A5版
+* 委託: [メロンブックス](https://www.melonbooks.co.jp/detail/detail.php?product_id=607968)

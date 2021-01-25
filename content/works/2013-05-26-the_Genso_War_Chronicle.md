@@ -1,8 +1,8 @@
 +++
 title = "幻想戦記 合本"
 [taxonomies]
-tags = ["ミリタリー", "現パロ", "同人誌"]
-categories = ["東方Project", "小説"]
+tags = ["ミリタリー", "現パロ", "小説", "物理書籍", "幻想戦記"]
+categories = ["東方Project"]
 +++
 
 ## あらすじ
@@ -13,3 +13,4 @@ categories = ["東方Project", "小説"]
 
 * 頒布価格: 1000円
 * 形態: A5版
+* 委託: 終了

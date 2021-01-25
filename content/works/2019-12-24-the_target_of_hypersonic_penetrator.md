@@ -1,8 +1,8 @@
 +++
 title = "極超音速の弾芯が貫くもの"
 [taxonomies]
-tags = ["ポストアポカリプスSF百合ファンタジー", "同人誌"]
-categories = ["明ける世界の夢見る機械", "漫画"]
+tags = ["ポストアポカリプスSF百合ファンタジー", "漫画", "物理書籍"]
+categories = ["明ける世界の夢見る機械"]
 +++
 
 ## あらすじ
@@ -13,3 +13,4 @@ categories = ["明ける世界の夢見る機械", "漫画"]
 
 * 頒価: 500円
 * 形態: A5版
+* 委託: [メロンブックス](https://www.melonbooks.co.jp/detail/detail.php?product_id=584548)

@@ -2,8 +2,8 @@
 title = "総力戦狂想曲"
 description = "hogehoge"
 [taxonomies]
-tags = ["国家総力戦", "ミリタリー", "同人誌"]
-categories = ["東方Project", "小説"]
+tags = ["国家総力戦", "ミリタリー", "小説", "物理書籍"]
+categories = ["東方Project"]
 +++
 
 ## あらすじ
@@ -14,3 +14,4 @@ categories = ["東方Project", "小説"]
 
 * 頒布価格: 1500円
 * 形態: A5版
+* 委託: [メロンブックス](https://www.melonbooks.co.jp/detail/detail.php?product_id=24401)
